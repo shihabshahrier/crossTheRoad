@@ -72,7 +72,7 @@ def main():
     # set up the game clock
     clock = pygame.time.Clock()
 
-    # run the game loop
+    # game loop
     while True:
         # handle events
         for event in pygame.event.get():
