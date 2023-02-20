@@ -10,7 +10,7 @@ SCREEN_HEIGHT = 480
 
 # create the screen
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-pygame.display.set_caption("Cross the road")
+pygame.display.set_caption("Cross The Road")
 
 # define colors
 BLACK = (0, 0, 0)
